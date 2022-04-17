@@ -1,7 +1,7 @@
-# ICS2O-UNIT-6-01-PWA
+# ICS2O-PWA-TEMP
 
-[![GitHub's Super Linter](https://github.com/Curtis-Edwards/ICS2O-UNIT-6-01-PWA/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Curtis-Edwards/ICS2O-UNIT-6-01-PWA/actions)
+[![GitHub's Super Linter](https://github.com/Titus-diceman/ICS2O-PWA-TEMP/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Titus-diceman/ICS2O-PWA-TEMP/actions)
 
-[![Run on Repl.it](https://repl.it/badge/github/Curtis-Edwards/ICS2O-UNIT-6-01-PWA)](https://repl.it/github/Curtis-Edwards/ICS2O-UNIT-6-01-PWA)
+[![Run on Repl.it](https://repl.it/badge/github/Titus-diceman/ICS2O-PWA-TEMP)](https://repl.it/github/Titus-diceman/ICS2O-PWA-TEMP)
 
-This site can be found at: [https://Curtis-Edwards.github.io/ICS2O-UNIT-6-01-PWA](https://Curtis-Edwards.github.io/ICS2O-UNIT-6-01-PWA)
+This site can be found at: [https://Titus-diceman.github.io/ICS2O-UNIT-6-01-PWA](https://Titus-diceman.github.io/ICS2O-UNIT-6-01-PWA)
