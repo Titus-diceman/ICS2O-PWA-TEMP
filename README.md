@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Titus-diceman/ICS2O-PWA-TEMP)](https://repl.it/github/Titus-diceman/ICS2O-PWA-TEMP)
 
-This site can be found at: [https://Titus-diceman.github.io/ICS2O-PWA-TEMP](https://Titus-diceman.github.io/ICS2O-UNIT-6-01-PWA)
+This site can be found at: [https://Titus-diceman.github.io/ICS2O-PWA-TEMP](https://Titus-diceman.github.io/ICS2O-PWA-TEMP)
